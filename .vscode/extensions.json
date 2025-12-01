@@ -1,1 +1,11 @@
-{ "recommendations": ["expo.vscode-expo-tools"] }
+{ 
+    "recommendations": [
+        "expo.vscode-expo-tools",
+        "bradlc.vscode-tailwindcss",
+        "dbaeumer.vscode-eslint",
+        "gluestack.gluestack-vscode",
+        "esbenp.prettier-vscode",
+        "dsznajder.es7-react-js-snippets",
+        "imgildev.vscode-tailwindcss-snippets"
+    ], 
+}
